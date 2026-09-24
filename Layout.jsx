@@ -2,7 +2,7 @@ import { Outlet } from 'react-router-dom';
 import { Navbar } from './Navbar';
 import { Sidebar } from './Sidebar';
 import { CommandPalette } from './CommandPalette';
-
+//layout
 export const Layout = () => {
   return (
     <div className="flex h-screen bg-sentinel-900 overflow-hidden">

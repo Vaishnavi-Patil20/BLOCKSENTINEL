@@ -1,3 +1,4 @@
+//live monitoring
 import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Activity, Radio, Clock } from 'lucide-react';
